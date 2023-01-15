@@ -70,6 +70,6 @@ Sinoy, Stephine N.
 
 Terdes, Jose Felipe C.
 
-## Acknowledgements
+## Instructor
 
-Thank you, Sir Ambrad! ❤️
+Mr. Jhon Christian Ambrad
