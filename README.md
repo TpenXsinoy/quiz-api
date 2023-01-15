@@ -4,7 +4,7 @@
 
 ![ERD Flow](https://github.com/TpenXsinoy/quiz-api/blob/master/Document/Quiz%20System%20UML.png)
 
-## Summary
+## Summary:
 
 - This project provides features that make it possible to efficiently manage takers, quizzes, topics, questions, taker's answers, and quiz results in a quiz system.
 
@@ -60,7 +60,7 @@
 - PUT /api/QuizResults/{id} -- Updates Quiz Result
 - DELETE api/QuizResults/{id} -- Deletes Quiz Result
 
-## Authors
+## Authors:
 
 Acojedo, Jhonray V.
 
@@ -70,6 +70,6 @@ Sinoy, Stephine N.
 
 Terdes, Jose Felipe C.
 
-## Instructor
+## Instructor:
 
 Mr. Jhon Christian Ambrad
